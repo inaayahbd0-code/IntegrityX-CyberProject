@@ -3,6 +3,6 @@ __pycache__/
 .venv/
 venv/
 .env
-# local scan data (contains your personal file paths)
+
 *.db
 storehash.json
