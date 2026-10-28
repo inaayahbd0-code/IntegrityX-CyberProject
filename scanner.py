@@ -1,7 +1,4 @@
 """IntegrityX scanner: SHA-256 baselines stored in SQLite.
-
-Usage (CLI):
-    python scanner.py <file-or-folder>
 """
 import hashlib
 import os
