@@ -1,8 +1,8 @@
 # 🛡️ IntegrityX: File Integrity Checker
 
-IntegrityX detects unauthorized changes to files. It records a SHA-256 hash of every file in a folder, stores the baselines in SQLite, and flags files that are **MODIFIED**, **DELETED** or **NEW** on later scans. A Streamlit dashboard shows the results live.
+IntegrityX detects unauthorized changes to files. It records a SHA-256 hash of every file in a folder, stores the baselines in SQLite, and flags files that are **MODIFIED**, **DELETED** or **NEW** on later scans. A Streamlit dashboard shows the results in real time.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://integrityx-inaaya.streamlit.app/
 
 ## Features
 - Recursive scanning of files and nested folders
